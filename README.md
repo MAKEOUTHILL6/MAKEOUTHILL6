@@ -1,7 +1,7 @@
 <div align="center"><img src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif"></div>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=MAKEOUTHILL6&style=flat-square&color=blue" alt=""/></div>
 <h1>
-    Hello, I am Martin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=20px>
+    Hello, I am Martin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
 </h1>
 <h3><i>Started coding in late 2021</i></h3>
 <p>&#8226; 🚀 Currently working on myself</p>
