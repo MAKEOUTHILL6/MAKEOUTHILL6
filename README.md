@@ -3,7 +3,7 @@
 <h1>
     Hello, I am Martin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 </h1>
-<h3><i>Started coding in late 2021</i></h3>
+<h3><i>Started coding in early 2022</i></h3>
 <p>&#8226; 🚀 Currently working on myself</p>
 <p>&#8226; 🤼 Passion for wrestling</p>
 <p>&#8226; 💻 Coding journey in progress...</p> 
